@@ -4,7 +4,7 @@
 如果是应用在项目当中的话找到根目录，需要和 `composer.json`同级
 
 ```
-composer require gaopengfei/redis_lbs
+composer require lenayin/redis_lbs
 ```
 
 ## 配置
